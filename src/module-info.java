@@ -1,0 +1,2 @@
+module MajorGroupProject {
+}
